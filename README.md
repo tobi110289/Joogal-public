@@ -6,17 +6,20 @@ Find creative collaborators in the format of modern dating apps.
 </p>
 
 #### Sign up, define your roles and showcase your work
-<img src="./assets/win-path.png" alt="win" style="width: 50%;" />
+<img src="./assets/joogal-profile.png" alt="Profile" style="width: 50%;" />
 
-#### ...but do it before the climate disruptions escalate too much!
-<img src="./assets/disruptions.png" alt="disruptions" style="width: 50%;" />
+#### Discover other creatives, filtered by preference and request a collaboration
+<img src="./assets/joogal-discover.png" alt="Discover" style="width: 50%;" />
+
+#### Contact your matches via email to start collaborating
+<img src="./assets/joogal-collab.png" alt="Joogal" style="width: 50%;" />
 
 ## About
-Minions of Disruption is the online version of the board game of the same name. The game is made for the Dutch NGO, [Day of Adaptation](https://dayad.org/), and is trademarked - therefore the code cannot be publicly shared. 
+Joogal is an app for creatives of all fields who want to find people for collaborations. 
+Maybe a Rapper looking for a Beatmaker, or a Filmmaker looking for a Sound Designer.
+If you like someones work, and they like yours you can start chatting and hopefully creating!
 
-This is a multiplayer turn-based board-game-turned-online that requires strong teamwork to complete. The game is played on a single board, but each session is intended to have several groups of people playing at different boards at once, each having an effect on the neighbouring tables.
-
-The MVP of the game (featured screenshots) was build in 10 days by the wonderful people featured below  :superhero_woman::superhero_man::superhero_man::superhero_man:
+The MVP of Joogal (featured screenshots) was build in 5 days by Tobias Feltes followed by a 5 days period of adding test coverage by the amazing people below
 
 ## Tech Stack :computer:
 - [JavaScript](https://www.javascript.com/)
@@ -46,7 +49,6 @@ Big thanks and much respect goes to these wonderful people ([emoji key](https://
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/tobi110289"><img src="https://avatars1.githubusercontent.com/u/63813520?v=4" width="100px;" alt=""/><br /><sub>
     <td align="center"><a href="https://github.com/innaDE"><img src="https://avatars2.githubusercontent.com/u/69368038?v=4" width="100px;" alt=""/><br /><sub><b>Inna Druzina</b></sub></a><br /> <a href="#test-innaDE" title="test">⚠️</a></td>
     <td align="center"><a href="https://github.com/pbroeker"><img src="https://avatars0.githubusercontent.com/u/49947183?v=4" width="100px;" alt=""/><br /><sub><b>Philipp Broeker</b></sub></a><br /> <a href="#test-pbroeker" title="test">⚠️</a></td>
   </tr>
