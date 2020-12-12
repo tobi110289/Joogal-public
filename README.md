@@ -6,7 +6,7 @@ Find creative collaborators in the format of modern dating apps.
 </p>
 
 #### Sign up, define your roles and showcase your work
-<img src="./assets/joogal-profile.png" alt="Profile" style="width: 20%;" />
+<img src="./assets/joogal-profile.png" alt="Profile" style="height: 20%, width: 20%;" />
 
 #### Discover other creatives, filtered by preference and request a collaboration
 <img src="./assets/joogal-discover.png" alt="Discover" style="width: 20%;" />
