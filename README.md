@@ -9,13 +9,7 @@ Find creative collaborators in the format of a modern dating app.
 </p>
 
 #### Sign up, define your roles and showcase your work
-<img src="./assets/joogal-profile.png" alt="Profile" style="width: 20px;" />
-
-#### Discover other creatives, filtered by preference and request a collaboration
-<img src="./assets/joogal-discover.png" alt="Discover" style="width: 20px;" />
-
-#### Contact your matches via email to start collaborating
-<img src="./assets/joogal-collab.png" alt="Joogal" style="width: 20px;" />
+<img src="./assets/allscreens.jpg" alt="all Screens" style="width: 20px" />
 
 ## About
 Joogal is an app for creatives of all fields who want to find people for collaborations. 
